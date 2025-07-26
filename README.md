@@ -47,36 +47,7 @@ This app is great for:
 
 ---
 
-📷 Screenshots
-🏠 Home Screen
-<img src="https://github.com/user-attachments/assets/1c4eb89d-f1f4-4346-8153-6bb02d866998" height="450" />
-
-📄 Note Tile View
-<img src="https://github.com/user-attachments/assets/5103761e-63db-41ae-8845-9059cd90e51f" height="450" />
-
-🧾 Note Card View
-<img src="https://github.com/user-attachments/assets/3672927b-e458-43e3-be8e-74091237531d" height="450" />
-
-➕ Add Note Screen
-<img src="https://github.com/user-attachments/assets/b2f126eb-7c92-4f1c-8daf-2052e31538a2" height="450" />
-
-📖 Reading Screen
-<img src="https://github.com/user-attachments/assets/7196dcd0-c42d-4260-af89-c0fb3f1ad0f0" height="450" />
-
-🗂️ Category Filtering
-<img src="https://github.com/user-attachments/assets/4c4d1d6a-0eac-4411-9e69-69bb115ac39d" height="450" />
-
-🚫 Empty Category
-<img src="https://github.com/user-attachments/assets/d22e43a6-4310-44ef-b593-e0a80828b88f" height="450" />
-
-🔎 Search Screen
-<img src="https://github.com/user-attachments/assets/d43f300f-6c0d-4c95-8146-802d39a2f141" height="450" />
-
-❌ Search Not Found
-<img src="https://github.com/user-attachments/assets/3f0760bf-0ef7-45c2-964b-226425e92189" height="450" />
-
-✅ Search Found
-<img src="https://github.com/user-attachments/assets/9730cd66-31fb-4c46-9970-955584cda020" height="450" />
-
-📋 Popup Options
-<img src="https://github.com/user-attachments/assets/5ce7a615-541c-45da-9a04-83a9b0c7d341" height="450" />
+📸 Screenshots
+|                                               🏠 Home Screen                                               |                                              📄 Note Tile View                                             |
+| :--------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
+| <img src="https://github.com/user-attachments/assets/1c4eb89d-f1f4-4346-8153-6bb02d866998" height="500" /> | <img src="https://github.com/user-attachments/assets/5103761e-63db-41ae-8845-9059cd90e51f" height="500" /> |
