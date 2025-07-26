@@ -1,16 +1,52 @@
-# notepad
+# 📝 Notepad App
 
-A new Flutter project.
+A clean, fully functional Notepad app built using **Flutter**. This project focuses on practical note-taking features with a beautiful UI, local storage, and smooth user experience — perfect for learning and real-world use.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✏️ Create, edit, and delete notes (Full CRUD)
+- 🌓 Light and Dark Mode support
+- 🔄 Toggle between **Note Cards** and **Note Tiles**
+- 🗂️ Filter notes by custom categories
+- 🔍 Real-time search functionality
+- 📤 Share notes as PDF
+- 🌐 RTL & LTR text support (for Urdu, Arabic, etc.)
+- 💾 Offline storage with **Hive**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screens
+
+- **Home Screen** – Display notes with filter & toggle options  
+- **Add/Edit Screen** – Create or update notes  
+- **Reading Screen** – View full note details  
+- **Search Screen** – Find notes by title or content
+
+---
+
+## 🧰 Tech Stack
+
+- **Flutter** – UI toolkit for building apps
+- **Dart** – Language for Flutter
+- **Hive** – Lightweight & blazing fast local database
+- **Provider** – State management
+- **Path Provider** – File system paths
+- **PDF Packages** – Export notes as PDFs
+
+---
+
+## 🎯 Why This Project?
+
+This app is great for:
+- 📚 Students learning **Flutter + local storage**
+- 💻 Beginners exploring **Provider & Hive**
+- 🛠️ Developers building **offline-first mobile apps**
+- 🎨 UI/UX learners crafting clean and responsive interfaces
+
+---
+
+## 📷 Screenshots
+
+
