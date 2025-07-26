@@ -58,5 +58,6 @@ This app is great for:
 <img width="350" height="750" alt="search not found" src="https://github.com/user-attachments/assets/691964f0-e587-4f55-97f5-4c07b9163c31" />
 <img width="350" height="750" alt="search found" src="https://github.com/user-attachments/assets/90c5ef06-c223-4579-b7aa-7ac00bafb7a8" />
 <img width="350" height="750" alt="popup screen" src="https://github.com/user-attachments/assets/40abdf34-0da8-40b6-ab34-079ffdaee491" />
-<img width="350" height="750" alt="empty category" src="https://github.com/user-attachments/assets/282db134-7302-4a35-8b82-6b32c00dbbd3" />
 <img width="350" height="750" alt="category filtering" src="https://github.com/user-attachments/assets/ef60792d-5514-40d0-8aa2-281a6447ebaf" />
+<img width="350" height="750" alt="empty category" src="https://github.com/user-attachments/assets/282db134-7302-4a35-8b82-6b32c00dbbd3" />
+
