@@ -48,8 +48,6 @@ This app is great for:
 ---
 
 📸 Screenshots
-<center> 
-<img width="350" height="750" alt="home scree" src="https://github.com/user-attachments/assets/05b67adc-df06-49d7-968a-ce8e2d8d6bd8" />
 
-</center>
+            <img width="350" height="750" alt="home scree" src="https://github.com/user-attachments/assets/05b67adc-df06-49d7-968a-ce8e2d8d6bd8" />
 
